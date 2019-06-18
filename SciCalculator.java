@@ -12,7 +12,7 @@ public class SciCalculator {
         double math;
 
         Scanner myscanner = new Scanner(System.in);
-
+        //push
         while (operation != 0) {
             //stopGap stops the menus and result printing when option 7 is chosen
             if (stopGap != 1) {
